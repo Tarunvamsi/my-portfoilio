@@ -1,3 +1,3 @@
 # my-portfoilio
 
-live at: https://my-portfoilio-rouge.vercel.app/
+live at: https://my-portfoilio-git-master-tarun-vamsis-projects.vercel.app/
